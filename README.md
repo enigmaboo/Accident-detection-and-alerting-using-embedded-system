@@ -59,3 +59,16 @@ Exceptional cases like minor accidents, pits in roads, or others can also causes
 *	When impact is experienced then it will show “ARE YOU SAFE” and beeps for 30 seconds.
 *	If user is safe then the user can press the button within 30 second. It will stop the message.
 *	If user is not safe then the system will send message.
+
+## Configiuration
+
+* The sensors must be placed in such a way that, it can sense and give accurate values
+* To getting best & accurate readings: 
+    * It requires a total of 4 ultrasonic sensors & 6 vibration sensors
+     (for small vehicles like cars; number of sensory may vary for other vehicles)
+        * Four ultrasonic sensors are installed at front, back and both sides of the vehicle
+        * Four vibration sensors are installed inside the doors and one sensor is installed inside the dashboard. Last one is installed on the back of the vehicle
+* Initially the system has no phone numbers 
+    * There is a smartphone application to setup the phone numbers
+    * It helps to add, remove & update the numbers
+    * Also helps to view saved numbers

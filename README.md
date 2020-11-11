@@ -60,7 +60,7 @@ Exceptional cases like minor accidents, pits in roads, or others can also causes
 *	If user is safe then the user can press the button within 30 second. It will stop the message.
 *	If user is not safe then the system will send message.
 
-## Configiuration
+## Configuration
 
 * The sensors must be placed in such a way that, it can sense and give accurate values
 * To getting best & accurate readings: 

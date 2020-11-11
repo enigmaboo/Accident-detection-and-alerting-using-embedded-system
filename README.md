@@ -75,5 +75,5 @@ Exceptional cases like minor accidents, pits in roads, or others can also causes
 
 ## Authors
 
-[Karthik Parameswaran](https://github.com/enigmaboo/)
-[Aravind V V](https://github.com/arvndvv)
+1. [Karthik Parameswaran](https://github.com/enigmaboo/)
+2. [Aravind V V](https://github.com/arvndvv)

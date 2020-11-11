@@ -36,11 +36,11 @@ It can detect accidents and send message alerts to saved phone numbers and rescu
 *	When vehicle starts, the system also turns on.
 *	Whenever an accident happens, the vehicle will experience a huge impact.
 *	This impact is the key point of detection of accident.
-  *	We are using a Vibration sensor to know the level of impact.
-  *	We are using an Ultrasonic sensor to detect the obstacles.
-  *	Bluetooth module and Memory card module is used to store mobiles numbers.
-  *	GPS module is used to getting signals from the satellites (already existing GPS technology) in the form of longitudes and latitudes, to know where accident happened.
-  *	GSM module is used for sending text message to specified mobile numbers (telecommunication technology).
+    *	We are using a Vibration sensor to know the level of impact.
+    *	We are using an Ultrasonic sensor to detect the obstacles.
+    *	Bluetooth module and Memory card module is used to store mobiles numbers.
+    *	GPS module is used to getting signals from the satellites (already existing GPS technology) in the form of longitudes and latitudes, to know where accident happened.
+    *	GSM module is used for sending text message to specified mobile numbers (telecommunication technology).
 *	The micro controller (in our case ARDUINO) already getting data from GPS module (from the time of starting of vehicle).
 *	If the impact is high, then the Vibration sensor will send a signal to the micro controller.
 *	That signal will activate the program in the micro controller.

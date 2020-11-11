@@ -51,6 +51,7 @@ It can detect accidents and send message alerts to saved phone numbers and rescu
 
 [__Note__: There is also a smartphone application to add or change the phone numbers. The smartphone connects to the device via Bluetooth. ]
 
+#
 
 Exceptional cases like minor accidents, pits in roads, or others can also causes impact in vehicle. That impact may trigger the sensor. Then the system will send message. To avoid this, we add a Button, a Buzzer and Display to the system.
 

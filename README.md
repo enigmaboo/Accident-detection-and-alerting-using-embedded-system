@@ -16,7 +16,7 @@ It can detect accidents and send message alerts to saved phone numbers and rescu
 
 ## Components used
 
-  - ARDUINO 
+  - ARDUINO MEGA
   - GSM Module 
   - GPS Module 
   - Vibration Sensor Module 

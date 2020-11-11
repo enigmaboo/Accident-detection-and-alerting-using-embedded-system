@@ -72,6 +72,20 @@ Exceptional cases like minor accidents, pits in roads, or others can also causes
     * There is a smartphone application to setup the phone numbers
     * It helps to add, remove & update the numbers
     * Also helps to view saved numbers
+    
+## Gallery
+
+#### Prototype
+
+![Prototype](https://github.com/enigmaboo/Accident-detection-and-alerting-using-embedded-system/blob/main/images/001.jpg)
+
+#### App UI
+
+![App UI](https://github.com/enigmaboo/Accident-detection-and-alerting-using-embedded-system/blob/main/images/app_interface.jpg)
+
+#### Alert sample
+
+![Alert sample](https://github.com/enigmaboo/Accident-detection-and-alerting-using-embedded-system/blob/main/images/location_msg.png)
 
 ## Authors
 

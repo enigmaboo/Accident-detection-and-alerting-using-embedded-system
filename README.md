@@ -27,6 +27,10 @@ It can detect accidents and send message alerts to saved phone numbers and rescu
   - Buzzer
   - Push button
   
+## Circuit diagram
+
+![Circuit](https://github.com/enigmaboo/Accident-detection-and-alerting-using-embedded-system/blob/circuit/CIRCUIT.png?raw=true)
+  
 ## Working
 
 •	When vehicle starts, the system also turns on.

@@ -6,9 +6,23 @@ It can detect accident and send message alerts to saved phone numbers and rescue
 
   - SoftwareSerial.h
   - SPI.h
-  - D.h>
+  - sD.h>
   - TinyGPS++.h
   - Adafruit_GFX.h
   - Adafruit_PCD8544.h
   - Fonts/FreeSans9pt7b.h
   - NewPing.h
+
+## Compnents used
+
+  - ARDUINO 
+  - GSM Module 
+  - GPS Module 
+  - Vibration Sensor Module 
+  - LCD Module
+  - Bluetooth module
+  - Ultrasonic sensor
+  - Memory card module
+  - Buzzer
+  - Push button
+  
